@@ -11,7 +11,7 @@ import Pequenio from './components/Pequenio';
 function App() {
   return (
   <Router>
-    <div className="container">
+    <div className="container responsive">
       <h3 className="text-center m-1 text-white">Michigaleria - imágenes de <a href="https://www.pexels.com/" target="_blank"> Pexels.com </a> </h3>
     </div>
     <Route path= "/Gatitos" component= {Gatitos}/> 
