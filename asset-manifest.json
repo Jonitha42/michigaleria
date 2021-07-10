@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/michigaleria/static/css/main.53bd9594.chunk.css",
+    "main.js": "/michigaleria/static/js/main.4966dc1f.chunk.js",
+    "main.js.map": "/michigaleria/static/js/main.4966dc1f.chunk.js.map",
+    "runtime-main.js": "/michigaleria/static/js/runtime-main.ff0a8336.js",
+    "runtime-main.js.map": "/michigaleria/static/js/runtime-main.ff0a8336.js.map",
+    "static/js/2.cb5dcedb.chunk.js": "/michigaleria/static/js/2.cb5dcedb.chunk.js",
+    "static/js/2.cb5dcedb.chunk.js.map": "/michigaleria/static/js/2.cb5dcedb.chunk.js.map",
+    "index.html": "/michigaleria/index.html",
+    "static/css/main.53bd9594.chunk.css.map": "/michigaleria/static/css/main.53bd9594.chunk.css.map",
+    "static/js/2.cb5dcedb.chunk.js.LICENSE.txt": "/michigaleria/static/js/2.cb5dcedb.chunk.js.LICENSE.txt",
+    "static/media/gatitos.a3a16551.jpg": "/michigaleria/static/media/gatitos.a3a16551.jpg",
+    "static/media/michi.6954c85f.jpg": "/michigaleria/static/media/michi.6954c85f.jpg",
+    "static/media/michis.21229a22.jpg": "/michigaleria/static/media/michis.21229a22.jpg",
+    "static/media/mimiendo.da1bd342.jpg": "/michigaleria/static/media/mimiendo.da1bd342.jpg",
+    "static/media/pequenio.b2251235.jpg": "/michigaleria/static/media/pequenio.b2251235.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff0a8336.js",
+    "static/js/2.cb5dcedb.chunk.js",
+    "static/css/main.53bd9594.chunk.css",
+    "static/js/main.4966dc1f.chunk.js"
+  ]
+}
